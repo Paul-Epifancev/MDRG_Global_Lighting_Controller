@@ -137,4 +137,4 @@ This mod is provided **as-is** for educational and aesthetic purposes. It does n
 ---
 
 **Made with ❤️ and 🐑 by Paul.Epifancev (`#warlockforbugs`)**  
-*«Не пойман — не багер» ©*<img width="1920" height="1080" alt="light up down" src="https://github.com/user-attachments/assets/0fd946e4-2e8f-4b4f-9c7c-067d86d4db72" />
+*«Не пойман — не багер»
