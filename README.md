@@ -1,5 +1,3 @@
-# MDRG_Global_Lighting_Controller
-Lighting level control mod
 # 💡 MDRG Global Lighting Controller
 
 > **Real-time lighting control with persistent settings across all scenes**
