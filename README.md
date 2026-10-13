@@ -24,6 +24,9 @@ The controller works across **all scenes**, including those without native light
 **MDRG Global Lighting Controller** — это open-source мод на базе MelonLoader, который даёт игрокам точный контроль над системой освещения игры в реальном времени. В отличие от встроенного `SimplyLightScript` (который привязан к внутриигровому таймеру времени суток), этот мод позволяет вручную регулировать интенсивность света от 0% до 100% с шагом 10%, с сохранением настроек между перезапусками игры.
 
 Контроллер работает **во всех сценах**, включая те, где нет нативных нод освещения (Shower Scene, Cuddle Scene, Missionary Scene, Shop Scene, Clothier Scene), динамически инжектируя ноды в рантайме через IL2CPP-рефлексию.
+<p align="center">
+  <img src="light up down.png" alt="MDRG Custom Mod Showcase" width="700">
+</p>
 
 ---
 
